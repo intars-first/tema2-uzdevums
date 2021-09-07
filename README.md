@@ -1,3 +1,3 @@
 # tema2-uzdevums
 
->Uzdevums kas pēdējāpustundā
+>Uzdevums kas pēdējā pustundā
